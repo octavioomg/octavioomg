@@ -36,7 +36,7 @@ Processos administrativos · Relatórios e análises · Bancos de dados para CRM
 Auditoria interna · Análise de dados estatísticos · Controle de projetos · Melhoria de processos · Planejamento estratégico
 
 
-## [📊 Analytics](#-analytics-)
+## 📊 Analytics
 
 <p align="left">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=octavioomg&show_icons=true&theme=algolia&hide_border=true" />
