@@ -21,13 +21,13 @@
 
 - Resolução de Problemas
 
-- Trabalho em equipe
-
 - Pensamento crítico
 
-- Proatividade
-
 - Capacidade de tomar decisões
+  
+- Trabalho em equipe
+
+- Proatividade
 
 - Habilidades interpessoais
 
